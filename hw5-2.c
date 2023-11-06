@@ -20,6 +20,6 @@ int main(void)
   {
     e=min*0.9*0.79;
   }
-  printf("%.1f",e);
+  printf("%.1if",e);
 }
 
